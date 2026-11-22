@@ -34,5 +34,13 @@ extract_reference_svgs.py
 update_reference_layout.py
 update_contact_layout.py
 normalize_catalogue.py
+# Walkthrough rendering tools and uncommitted local video files
+walkthrough/
+capture_walkthrough.py
+prepare_walkthrough.py
+generate_narration.ps1
+render_walkthrough.py
+frontend/public/demo-player.html
+frontend/public/demo-walkthrough.mp4
 # Local PostgreSQL credentials/data (stored outside project)
 pgdata/

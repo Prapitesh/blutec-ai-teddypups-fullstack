@@ -1,5 +1,13 @@
 # TeddyPups — Blutec AI Full Stack Assignment
 
+**Assignment deliverables (submitted 22 November 2026):**
+
+- [Live deployed website](https://blutec-teddypups.onrender.com/)
+- [Complete GitHub repository](https://github.com/Prapitesh/blutec-ai-teddypups-fullstack)
+- [Public Loom technical walkthrough](https://www.loom.com/share/cc5085dbe7f244efb967059ae16940e7)
+
+The walkthrough includes AI-use disclosure and an AI-generated voice narration. The original reference design and media belong to their respective owners, as explained in [NOTICE.md](NOTICE.md).
+
 A responsive recreation of the public TeddyPups UAE website using **React 19 / Vite**, **Java 21 / Spring Boot 3.4**, and **PostgreSQL 18**.
 
 **Reference:** https://puppy.instabizweb.com/
