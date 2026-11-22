@@ -49,6 +49,18 @@ docker compose up --build
 
 Open http://localhost:5173. Nginx serves React and proxies `/api/` to Spring Boot, which uses the private PostgreSQL container. Docker Compose configuration was validated, but Docker Desktop's daemon was not active on the development computer, so image-build/execution testing remains to be done.
 
+## Full-stack Render deployment (one public URL)
+
+The repository-root `render.yaml` defines a **free Render web service** and a **free PostgreSQL database**. Render builds the React SPA and Spring Boot into one Docker image using `Dockerfile.render`, so the frontend and REST API share the same HTTPS domain without cross-origin configuration.
+
+1. Go to Render Dashboard > New > Blueprint.
+2. Select this GitHub repository and its `main` branch.
+3. Review the two free resources (`blutec-teddypups` and `blutec-teddypups-db`) and deploy.
+4. Use the public `https://blutec-teddypups.onrender.com/` address assigned by Render after a successful deployment.
+5. Check the home page, puppy filters and POST /api/enquiries before submitting the assignment.
+
+Render's free PostgreSQL has expiration/usage limitations; this is a technical-evaluation deployment, not a production datastore. No payment is required for the free plans unless you explicitly upgrade.
+
 ## Other environments / production
 
 Frontend: `cd frontend && npm ci && npm run build`, deploy `frontend/dist` to a static host with SPA fallback to `/index.html`. Set `VITE_API_URL` to your HTTPS backend origin when building (not a secret).

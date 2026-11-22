@@ -1,0 +1,17 @@
+**/node_modules
+**/dist
+**/target
+**/.idea
+**/.git
+**/.env
+**/*.log
+**/chrometest-profile
+**/chrome-temp
+**/pgdata
+local-*.png
+reference-*.png
+reference-*.html
+ref-*.html
+*.zip
+*.py
+__pycache__/
