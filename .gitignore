@@ -3,7 +3,7 @@
 **/dist/
 **/target/
 **/.vite/
-**/data/
+/backend/data/
 **/.env
 **/.env.local
 **/*.log

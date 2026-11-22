@@ -1,0 +1,615 @@
+[
+  {
+    "slug": "maltipoo-max-male",
+    "name": "Max",
+    "breed": "Maltipoo",
+    "gender": "Boy",
+    "age": "3 months",
+    "status": "AVAILABLE",
+    "image": "/assets/231f00c0286d871f.webp",
+    "description": "Max, Maltipoo, boy, 3 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/231f00c0286d871f.webp",
+      "/assets/ad4116135e95a2e1.webp"
+    ]
+  },
+  {
+    "slug": "korean-teacup-maltipoo-female",
+    "name": "Korean Teacup Maltipoo",
+    "breed": "Korean Teacup Maltipoo",
+    "gender": "Girl",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/00ce0749c23aba02.webp",
+    "description": "Korean Teacup Maltipoo, girl, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/00ce0749c23aba02.webp"
+    ]
+  },
+  {
+    "slug": "korean-teacup-poodle-female",
+    "name": "Korean Teacup Poodle",
+    "breed": "Korean Teacup Poodle",
+    "gender": "Girl",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/ecba3f222d7f3b7b.webp",
+    "description": "Korean Teacup Poodle, girl, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/ecba3f222d7f3b7b.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-cavapoo-male",
+    "name": "Maltipoo & Cavapoo",
+    "breed": "Maltipoo & Cavapoo",
+    "gender": "Boy",
+    "age": "3 months Maltipoo & 2 months Cavapoo",
+    "status": "AVAILABLE",
+    "image": "/assets/2daa824dc4a45d30.webp",
+    "description": "Maltipoo & Cavapoo, boy, 3 months Maltipoo & 2 months Cavapoo, available",
+    "alt": "",
+    "gallery": [
+      "/assets/2daa824dc4a45d30.webp"
+    ]
+  },
+  {
+    "slug": "toy-poodle-male-female",
+    "name": "Toy Poodle",
+    "breed": "Toy Poodle",
+    "gender": "Boy & Girl",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/98d74b02924d0d2a.webp",
+    "description": "Toy Poodle, boy & girl, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/98d74b02924d0d2a.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-female-2",
+    "name": "Maltipoo",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "3 months",
+    "status": "AVAILABLE",
+    "image": "/assets/fa742f3baf7c2552.webp",
+    "description": "Maltipoo, girl, 3 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/fa742f3baf7c2552.webp"
+    ]
+  },
+  {
+    "slug": "pomeranian-female",
+    "name": "Pomeranian",
+    "breed": "Pomeranian",
+    "gender": "Girl",
+    "age": "3 months",
+    "status": "AVAILABLE",
+    "image": "/assets/8f0754f70c5f5c30.webp",
+    "description": "Pomeranian, girl, 3 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/8f0754f70c5f5c30.webp"
+    ]
+  },
+  {
+    "slug": "copper-male",
+    "name": "Copper",
+    "breed": "Cavapoo",
+    "gender": "Boy",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/edb4c7c3cdc5e468.webp",
+    "description": "Copper, Cavapoo, boy, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/edb4c7c3cdc5e468.webp"
+    ]
+  },
+  {
+    "slug": "shitzu-female",
+    "name": "Shih Tzu",
+    "breed": "Shih Tzu",
+    "gender": "Girl",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/969aa6b83dcbb9e9.webp",
+    "description": "Shih Tzu, girl, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/969aa6b83dcbb9e9.webp",
+      "/assets/edb4c7c3cdc5e468.webp"
+    ]
+  },
+  {
+    "slug": "shitzu-male",
+    "name": "Shih Tzu",
+    "breed": "Shih Tzu",
+    "gender": "Boy",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/f1b575cc5144d2fa.webp",
+    "description": "Shih Tzu, boy, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/f1b575cc5144d2fa.webp",
+      "/assets/969aa6b83dcbb9e9.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-female-1",
+    "name": "Maltipoo",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "2.5 months",
+    "status": "AVAILABLE",
+    "image": "/assets/0c72ade584911f83.webp",
+    "description": "Maltipoo, girl, 2.5 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/0c72ade584911f83.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-female",
+    "name": "Maltipoo",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/39ca7d3a1b1db372.webp",
+    "description": "Maltipoo, girl, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/39ca7d3a1b1db372.webp"
+    ]
+  },
+  {
+    "slug": "korean-teacup-pomeranian-1",
+    "name": "Korean Teacup Pomeranian",
+    "breed": "Korean Teacup Pomeranian",
+    "gender": "Girl",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/305bbe06cb726e70.webp",
+    "description": "Korean Teacup Pomeranian, girl, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/305bbe06cb726e70.webp",
+      "/assets/39ca7d3a1b1db372.webp"
+    ]
+  },
+  {
+    "slug": "korean-teacup-pomeranian",
+    "name": "Korean Teacup Pomeranian",
+    "breed": "Korean Teacup Pomeranian",
+    "gender": "Girl",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/cbb9c77f9ce096c2.webp",
+    "description": "Korean Teacup Pomeranian, girl, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/cbb9c77f9ce096c2.webp",
+      "/assets/305bbe06cb726e70.webp"
+    ]
+  },
+  {
+    "slug": "korean-teacup-pomeranian-male",
+    "name": "Korean Teacup Pomeranian",
+    "breed": "Korean Teacup Pomeranian",
+    "gender": "Boy",
+    "age": "2 months",
+    "status": "AVAILABLE",
+    "image": "/assets/ad4116135e95a2e1.webp",
+    "description": "Korean Teacup Pomeranian, boy, 2 months, available",
+    "alt": "",
+    "gallery": [
+      "/assets/ad4116135e95a2e1.webp"
+    ]
+  },
+  {
+    "slug": "pomeranian-ace-boy",
+    "name": "Ace",
+    "breed": "Pomeranian",
+    "gender": "Boy",
+    "age": "3 months",
+    "status": "GONE_HOME",
+    "image": "/assets/8a08e6c867eb16e3.webp",
+    "description": "Ace, Pomeranian, boy, 3 months, gone home",
+    "alt": "",
+    "gallery": [
+      "/assets/8a08e6c867eb16e3.webp"
+    ]
+  },
+  {
+    "slug": "poodle-leo-male",
+    "name": "Leo",
+    "breed": "Poodle",
+    "gender": "Boy",
+    "age": "3 months",
+    "status": "GONE_HOME",
+    "image": "/assets/5486fb8812f279ee.webp",
+    "description": "Leo, Poodle, boy, 3 months, gone home",
+    "alt": "",
+    "gallery": [
+      "/assets/5486fb8812f279ee.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-mia-girl",
+    "name": "Mia",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "3 months",
+    "status": "GONE_HOME",
+    "image": "/assets/0b1ce2615542a6ec.webp",
+    "description": "Mia, Maltipoo, girl, 3 months, gone home",
+    "alt": "",
+    "gallery": [
+      "/assets/0b1ce2615542a6ec.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-sadie-girl",
+    "name": "Sadie",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "3 months",
+    "status": "GONE_HOME",
+    "image": "/assets/809c874c708f0399.webp",
+    "description": "Sadie, Maltipoo, girl, 3 months, gone home",
+    "alt": "",
+    "gallery": [
+      "/assets/809c874c708f0399.webp"
+    ]
+  },
+  {
+    "slug": "blue-marle-pomeranian",
+    "name": "Pomeranian",
+    "breed": "Pomeranian",
+    "gender": "Girl",
+    "age": "3 months",
+    "status": "GONE_HOME",
+    "image": "/assets/1085113760c4a1c2.webp",
+    "description": "Pomeranian, boy, 3 months, gone home",
+    "alt": "",
+    "gallery": [
+      "/assets/1085113760c4a1c2.webp",
+      "/assets/809c874c708f0399.webp",
+      "/assets/47fd6682d021888e.webp"
+    ]
+  },
+  {
+    "slug": "pomsky-ollie-boy",
+    "name": "Ollie",
+    "breed": "Pomsky",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/47fd6682d021888e.webp",
+    "description": "Ollie Pomsky, boy TeddyPups home ♥ admit one",
+    "alt": "Ollie, male Pomsky puppy",
+    "gallery": [
+      "/assets/47fd6682d021888e.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-bruno-boy",
+    "name": "Bruno",
+    "breed": "Maltipoo",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/c1fb74539242249e.webp",
+    "description": "Bruno Maltipoo, boy Dubai showroom home ♥ admit one",
+    "alt": "Bruno, male Maltipoo puppy",
+    "gallery": [
+      "/assets/c1fb74539242249e.webp"
+    ]
+  },
+  {
+    "slug": "maltese-buddy-male",
+    "name": "Buddy",
+    "breed": "Maltese",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/44a302c6c0dde67f.webp",
+    "description": "Buddy Maltese, boy Dubai showroom home ♥ admit one",
+    "alt": "Buddy, male Maltese puppy",
+    "gallery": [
+      "/assets/44a302c6c0dde67f.webp",
+      "/assets/c1fb74539242249e.webp",
+      "/assets/f438e97ad9911c86.webp"
+    ]
+  },
+  {
+    "slug": "maltese-charlie-male",
+    "name": "Charlie",
+    "breed": "Maltese",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/f438e97ad9911c86.webp",
+    "description": "Charlie Maltese, boy TeddyPups home ♥ admit one",
+    "alt": "Charlie, male Maltese puppy",
+    "gallery": [
+      "/assets/f438e97ad9911c86.webp",
+      "/assets/44a302c6c0dde67f.webp",
+      "/assets/c1680dbefafd31f5.webp"
+    ]
+  },
+  {
+    "slug": "pomeranian-daisy-girl",
+    "name": "Daisy",
+    "breed": "Pomeranian",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/c1680dbefafd31f5.webp",
+    "description": "Daisy Pomeranian, girl Dubai showroom home ♥ admit one",
+    "alt": "Daisy, female Pomeranian puppy",
+    "gallery": [
+      "/assets/c1680dbefafd31f5.webp",
+      "/assets/f438e97ad9911c86.webp",
+      "/assets/fb1b54eb6b43dd84.webp"
+    ]
+  },
+  {
+    "slug": "pomeranian-bella-female",
+    "name": "Bella",
+    "breed": "Pomeranian",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/fb1b54eb6b43dd84.webp",
+    "description": "Bella Pomeranian, girl TeddyPups home ♥ admit one",
+    "alt": "Bella, female Pomeranian puppy",
+    "gallery": [
+      "/assets/fb1b54eb6b43dd84.webp",
+      "/assets/c1680dbefafd31f5.webp",
+      "/assets/5ad2a01def2a7310.webp"
+    ]
+  },
+  {
+    "slug": "poodle-teddy-male",
+    "name": "Teddy",
+    "breed": "Poodle",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/5ad2a01def2a7310.webp",
+    "description": "Teddy Poodle, boy TeddyPups home ♥ admit one",
+    "alt": "Teddy, male Poodle puppy",
+    "gallery": [
+      "/assets/5ad2a01def2a7310.webp",
+      "/assets/fb1b54eb6b43dd84.webp",
+      "/assets/d75de2b910550650.webp"
+    ]
+  },
+  {
+    "slug": "poodle-molly-female",
+    "name": "Molly",
+    "breed": "Poodle",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/d75de2b910550650.webp",
+    "description": "Molly Poodle, girl Dubai showroom home ♥ admit one",
+    "alt": "Molly, female Poodle puppy",
+    "gallery": [
+      "/assets/d75de2b910550650.webp",
+      "/assets/5ad2a01def2a7310.webp",
+      "/assets/6fe29da33f5e239c.webp"
+    ]
+  },
+  {
+    "slug": "pomski-coco-girl",
+    "name": "Coco",
+    "breed": "Pomsky",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/6fe29da33f5e239c.webp",
+    "description": "Coco Pomsky, girl TeddyPups home ♥ admit one",
+    "alt": "Coco, female Pomsky puppy",
+    "gallery": [
+      "/assets/6fe29da33f5e239c.webp"
+    ]
+  },
+  {
+    "slug": "pomsky-rosie-girl",
+    "name": "Rosie",
+    "breed": "Pomsky",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/0fabad3717f0184a.webp",
+    "description": "Rosie Pomsky, girl Dubai showroom home ♥ admit one",
+    "alt": "Rosie, female Pomsky puppy",
+    "gallery": [
+      "/assets/0fabad3717f0184a.webp"
+    ]
+  },
+  {
+    "slug": "pomeranian-leo-boy",
+    "name": "Leo",
+    "breed": "Pomeranian",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/103a1fa43abe34f6.webp",
+    "description": "Leo Pomeranian, boy Dubai showroom home ♥ admit one",
+    "alt": "Leo, male Pomeranian puppy",
+    "gallery": [
+      "/assets/103a1fa43abe34f6.webp"
+    ]
+  },
+  {
+    "slug": "poodle-molly-girl",
+    "name": "Molly",
+    "breed": "Poodle",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/72b0e9399f4ca636.webp",
+    "description": "Molly Poodle, girl TeddyPups home ♥ admit one",
+    "alt": "Molly, female Poodle puppy",
+    "gallery": [
+      "/assets/72b0e9399f4ca636.webp"
+    ]
+  },
+  {
+    "slug": "poodle-rocky-boy",
+    "name": "Rocky",
+    "breed": "Poodle",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/96c59f76ea4bc5b0.webp",
+    "description": "Rocky Poodle, boy TeddyPups home ♥ admit one",
+    "alt": "Rocky, male Poodle puppy",
+    "gallery": [
+      "/assets/96c59f76ea4bc5b0.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-sophie-girl",
+    "name": "Sophie",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/9fde65c64aeeeca4.webp",
+    "description": "Sophie Maltipoo, girl Dubai showroom home ♥ admit one",
+    "alt": "Sophie, female Maltipoo puppy",
+    "gallery": [
+      "/assets/9fde65c64aeeeca4.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-lola-girl",
+    "name": "Lola",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/081218effab77724.webp",
+    "description": "Lola Maltipoo, girl Dubai showroom home ♥ admit one",
+    "alt": "Lola, female Maltipoo puppy",
+    "gallery": [
+      "/assets/081218effab77724.webp"
+    ]
+  },
+  {
+    "slug": "pomeranian-rex-boy",
+    "name": "Rex",
+    "breed": "Pomeranian",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/b99413aaa4f619a0.webp",
+    "description": "Rex Pomeranian, boy TeddyPups home ♥ admit one",
+    "alt": "Rex, male Pomeranian puppy",
+    "gallery": [
+      "/assets/b99413aaa4f619a0.webp"
+    ]
+  },
+  {
+    "slug": "pomsky-finn-male",
+    "name": "Finn",
+    "breed": "Pomsky",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/2104f71a9965a1cf.webp",
+    "description": "Finn Pomsky, boy TeddyPups home ♥ admit one",
+    "alt": "Finn, male Pomsky puppy",
+    "gallery": [
+      "/assets/2104f71a9965a1cf.webp",
+      "/assets/b99413aaa4f619a0.webp",
+      "/assets/cdfdfbf49af94e6b.webp"
+    ]
+  },
+  {
+    "slug": "maltipoo-zoe-girl",
+    "name": "Zoe",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/cdfdfbf49af94e6b.webp",
+    "description": "Zoe Maltipoo, girl TeddyPups home ♥ admit one",
+    "alt": "Zoe, female Maltipoo puppy",
+    "gallery": [
+      "/assets/cdfdfbf49af94e6b.webp"
+    ]
+  },
+  {
+    "slug": "pomeranian-mimi-girl",
+    "name": "Mimi",
+    "breed": "Pomeranian",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/790ce8ca17ebe2f1.webp",
+    "description": "Mimi Pomeranian, girl Dubai showroom home ♥ admit one",
+    "alt": "Mimi, female Pomeranian puppy",
+    "gallery": [
+      "/assets/790ce8ca17ebe2f1.webp"
+    ]
+  },
+  {
+    "slug": "bichon-bailey-boy",
+    "name": "Bailey",
+    "breed": "Bichon",
+    "gender": "Boy",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/74aeeee04aa448ea.webp",
+    "description": "Bailey Bichon, boy Dubai showroom home ♥ admit one",
+    "alt": "Bailey, male Bichon puppy",
+    "gallery": [
+      "/assets/74aeeee04aa448ea.webp"
+    ]
+  },
+  {
+    "slug": "puppy",
+    "name": "Maltipoo",
+    "breed": "Maltipoo",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/45de39752ce87447.webp",
+    "description": "Maltipoo Girl TeddyPups home ♥ admit one",
+    "alt": "Female Maltipoo puppy",
+    "gallery": [
+      "/assets/45de39752ce87447.webp",
+      "/assets/74aeeee04aa448ea.webp",
+      "/assets/faa2c74328473142.webp"
+    ]
+  },
+  {
+    "slug": "maltipo",
+    "name": "Poodle",
+    "breed": "Poodle",
+    "gender": "Girl",
+    "age": "",
+    "status": "GONE_HOME",
+    "image": "/assets/faa2c74328473142.webp",
+    "description": "Poodle Girl Dubai showroom home ♥ admit one",
+    "alt": "Female Poodle puppy",
+    "gallery": [
+      "/assets/faa2c74328473142.webp",
+      "/assets/45de39752ce87447.webp",
+      "/assets/8a08e6c867eb16e3.webp"
+    ]
+  }
+]
