@@ -1,0 +1,37 @@
+# Java/Node build output
+**/node_modules/
+**/dist/
+**/target/
+**/.vite/
+**/data/
+**/.env
+**/.env.local
+**/*.log
+**/*.db
+**/*.mv.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+# Local reference analysis and screenshots (not submissions)
+reference-*.html
+reference-*.png
+ref-*.html
+local-home.png
+local-*.png
+chrome-temp/
+chrometest-profile/
+analyze_reference.py
+analyze_cards.py
+import_reference.py
+collect_galleries.py
+capture_reference.py
+inspect_hero.py
+inspect_svg.py
+extract_mascot.py
+extract_reference_svgs.py
+update_reference_layout.py
+update_contact_layout.py
+normalize_catalogue.py
+# Local PostgreSQL credentials/data (stored outside project)
+pgdata/
