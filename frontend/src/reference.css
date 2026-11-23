@@ -1,4 +1,5 @@
 /* Visual refinements based on the supplied TeddyPups reference. */
+.api-fallback-notice{padding:12px 25px;text-align:center;background:#fff2d4;color:#563a21;font-size:13px;font-weight:700;border-bottom:1px solid #caa87d}
 :root {--ref-brown:#2d1a12;--ref-orange:#bf6128;--ref-cream:#fff9ef;}
 .site-header{background:#fffdf9;border-bottom:0;box-shadow:none;}
 .site-header::after{content:"";position:absolute;left:0;right:0;bottom:-14px;height:18px;pointer-events:none;background:radial-gradient(circle at 21px -6px,#fffdf9 23px,transparent 23.8px) repeat-x;background-size:44px 26px;filter:drop-shadow(0px 2px 1px #8a6f6128);z-index:-1}
@@ -35,7 +36,8 @@
 .reference-quilt{position:absolute;z-index:3;left:0;right:0;top:708px;bottom:0;background-color:#fbefd9;background-image:repeating-linear-gradient(45deg,transparent 0,transparent 63px,#c5ab8738 64px,#c5ab8738 65px,transparent 66px,transparent 127px),repeating-linear-gradient(-45deg,transparent 0,transparent 63px,#c5ab8738 64px,#c5ab8738 65px,transparent 66px,transparent 127px)}
 .reference-quilt-hem{position:absolute;top:-30px;left:0;right:0;height:34px;background:radial-gradient(circle at 37px 12px,#fbefd9 35px,transparent 36px) repeat-x;background-size:74px 36px;filter:drop-shadow(0 -2px 0 #39231a)}
 .reference-catalog-hero{padding:42px 0 10px;background:#fffaf0;background-image:radial-gradient(#d6bb9c65 .75px,transparent .75px);background-size:24px 24px}
-.reference-catalog-hero .wrap,.catalog-section.wrap{width:calc(100% - 112px);max-width:1312px}\n.reference-catalog-hero .sketch-caption{font:700 22px "Caveat",cursive;color:#a64d20;transform:rotate(-2deg);margin-bottom:12px}
+.reference-catalog-hero .wrap,.catalog-section.wrap{width:calc(100% - 112px);max-width:1312px}
+.reference-catalog-hero .sketch-caption{font:700 22px "Caveat",cursive;color:#a64d20;transform:rotate(-2deg);margin-bottom:12px}
 .reference-catalog-heading{display:grid;grid-template-columns:1fr 255px;align-items:center;gap:35px}
 .reference-catalog-heading h1{font:400 clamp(65px,7.6vw,116px)/1.04 "Caprasimo",Georgia,serif;letter-spacing:-.06em;color:var(--ref-brown);margin:0 0 34px;text-decoration:underline;text-decoration-style:wavy;text-underline-offset:18px;text-decoration-color:#bd5b27;text-decoration-thickness:6px}
 .reference-catalog-heading p{color:#633b25;font-size:20px;line-height:1.6;max-width:640px;margin:10px 0}
@@ -121,7 +123,9 @@
   .reference-contact-page .letter-form{padding:64px 22px 28px}
   .reference-contact-page .letter-line{font-size:15px;line-height:2.5}
   .site-header::after{bottom:-12px}.header-inner{height:66px}
-  .reference-catalog-hero .wrap,.catalog-section.wrap{width:calc(100% - 34px)}\n  .reference-search{position:static;margin:12px 0 0}\n  .reference-hero{height:730px}
+  .reference-catalog-hero .wrap,.catalog-section.wrap{width:calc(100% - 34px)}
+  .reference-search{position:static;margin:12px 0 0}
+  .reference-hero{height:730px}
   .reference-hero-copy{padding-top:48px}
   .reference-hero-note{font-size:25px}
   .reference-hero h1{font-size:clamp(38px,9.9vw,63px);letter-spacing:-.055em;line-height:1.1}

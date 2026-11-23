@@ -91,12 +91,38 @@ Example POST:
 {"name":"Demo Visitor","phone":"+971501234567","email":"demo@example.com","area":"Downtown Dubai","puppySlug":"maltipoo-max-male","message":"I'd like to learn more.","website":""}
 ```
 
-## Testing
+## Testing and code quality
+
+Run these commands from the repository root, using separate terminals when appropriate:
 
 ```powershell
-cd backend; mvn test
-cd ../frontend; npm run build
+cd frontend
+npm ci
+npm run lint
+npm test
+npm run build
+
+cd ..\backend
+mvn test
 ```
+
+The backend now has controller, service, DTO, model, repository and configuration layers. The frontend uses `src/pages`, `src/components`, `src/hooks`, `src/services`, `src/utils`, and `src/data` rather than a monolithic component file.
+
+There are **9 frontend unit tests** for catalogue filtering/reset and phone validation, and **5 backend integration tests** for API endpoints, persistence, input validation, spam honeypot and non-destructive database seeding. Linting and both sets of tests run automatically in `.github/workflows/verify.yml` on pushes and pull requests.
+
+For local browser regression, start both local services and run:
+
+```powershell
+python -m pip install playwright
+python -u browser_e2e.py
+```
+
+This Playwright script uses locally installed Google Chrome and tests 8 routes, catalogue filtering, FAQ, gallery controls, form validation, a PostgreSQL enquiry, contact links and desktop/mobile layouts.
+
+**Development database:** Starting Spring Boot directly with no active profile defaults to H2 for convenience. `start-backend.ps1` activates the `postgres` profile and starts an isolated local PostgreSQL 18 cluster. Render uses a managed PostgreSQL database.
+
+**Demo contact behavior:** Contact CTAs stay inside this evaluation app rather than linking to an unrelated number or an unverified business destination. Enquiries are saved to this app's own database, **not sent to TeddyPups**. The reference snapshot does not supply reliable puppy import-origin metadata, so no unsupported Imported-only filter is displayed. These behaviors are deliberately transparent to visitors.
+
 
 ## Limitations and transparency
 

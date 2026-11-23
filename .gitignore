@@ -34,6 +34,8 @@ extract_reference_svgs.py
 update_reference_layout.py
 update_contact_layout.py
 normalize_catalogue.py
+refactor_modules.py
+apply_frontend_fixes.py
 # Walkthrough rendering tools and uncommitted local video files
 walkthrough/
 capture_walkthrough.py
